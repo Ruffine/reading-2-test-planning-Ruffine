@@ -16,7 +16,7 @@ This is a reading assignment, and as such has no single "right answer". All read
  * Dogfooding. 
  * The cost-benefit analysis principle (I know the definition of cost-benefit but I did not know that testing requires some billed resources)
  * Canary releases (aka % rollouts)
- Most of the others terms are known because they are fresh on my mind due to the fact that I am taking a "Software Testing" course this semester.
+ Most of the others terms are known due to the fact that I am taking a "Software Testing" course this semester.
 ## Prerequisites
 
  1. You've answered questions 1 and 2.
